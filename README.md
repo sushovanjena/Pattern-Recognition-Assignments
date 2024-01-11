@@ -2,6 +2,7 @@
 Pattern Recognition at IIT Mandi
 
 Assignment 1
+
 There are 3 types of datasets given below. The details of these three datasets are:
 a) ​Linearly separable:​These are 2-dimensional artificial data of 2 classes that are linearly
 separable. Each class has 1000 data points.
