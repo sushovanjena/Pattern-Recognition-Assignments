@@ -1,7 +1,7 @@
 # Pattern-Recognition-Assignments
 Pattern Recognition at IIT Mandi
 
-Assignment 1
+**Assignment 1**
 
 There are 3 types of datasets given below. The details of these three datasets are:
 
@@ -26,3 +26,8 @@ A typical training testing ratio can be 80% - 20%
 Make a confusion matrix to show your results.
 For the artificial datasets, also show a 2D scatter plot for the training data and test data with
 different colours. Also, points for different classes should also be shown in different colours.
+
+
+**SOLUTION**
+
+
