@@ -28,6 +28,4 @@ For the artificial datasets, also show a 2D scatter plot for the training data a
 different colours. Also, points for different classes should also be shown in different colours.
 
 
-**SOLUTION**
-
 
