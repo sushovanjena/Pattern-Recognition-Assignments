@@ -4,12 +4,16 @@ Pattern Recognition at IIT Mandi
 Assignment 1
 
 There are 3 types of datasets given below. The details of these three datasets are:
+
 a) ​Linearly separable:​These are 2-dimensional artificial data of 2 classes that are linearly
 separable. Each class has 1000 data points.
+
 b) ​Non-linearly separable​: These are 2-dimensional artificial data of 2 classes that are
 non-linearly separable. Each class has 1000 data points.
+
 c) ​Real-world: ​Real-world data of 3 classes. (Number of data points for class1 = 2388, class2
 = 2164 & for class3 = 2291)
+
 Perform
 1. Classification using Bayesian classifier (including parameter estimation and decision)
 2. Classification (only for the 2 artificial datasets) when you approximate the pdfs via
